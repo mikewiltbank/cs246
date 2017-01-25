@@ -3,7 +3,7 @@ package wiltbank;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by Wiltbank on 1/21/17.
+ * Created by Wiltbank
  */
 public class User {
 
